@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "C35ZrJ2azz6j9dXqGy0jcIy1DVTWmjZKgtTMZMaCakGLXWEbxLDSzsRVWRapsvyjkhreOpSzVaX57oUVqGjv4w==",
+  "success": true,
+  "projectFilePath": "/home/jsun2010/assign4/SampleRESTAPI/SampleRESTAPI.csproj",
+  "expectedPackageFiles": [
+    "/home/jsun2010/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
